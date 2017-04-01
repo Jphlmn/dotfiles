@@ -1,0 +1,7 @@
+[user]
+	email = jphlmn@umich.edu
+	name = Joe
+[push]
+	default = simple
+[credential]
+	helper = cache --timeout=7200
